@@ -49,7 +49,7 @@ SOFTWARE.
 
 Moving point average:
 
-![MPA](https://github.com/rpande1996/Moving_Average/blob/main/media/output/merged.png
+![MPA](https://github.com/rpande1996/Moving_Average/blob/main/media/output/merged.png)
 
 ## Build
 
